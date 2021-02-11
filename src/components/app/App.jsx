@@ -1,10 +1,10 @@
 import React from 'react';
-import ListPage from '../ListPage';
+import NewsSearch from '../../containers/NewsSearch';
 
 export default function App() {
   return (
     <>
-      <ListPage />
+      <NewsSearch />
     </>
   );
 }

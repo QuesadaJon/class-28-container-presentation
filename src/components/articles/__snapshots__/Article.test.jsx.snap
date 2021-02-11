@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Article component matches a snapshot 1`] = `
+<DocumentFragment>
+  <a
+    class="Article"
+    href="url"
+  >
+    <figure>
+      <img
+        alt="title"
+        src="image"
+      />
+      <figcaption>
+        title
+      </figcaption>
+      <p>
+        author
+      </p>
+      <p>
+        description
+      </p>
+    </figure>
+  </a>
+</DocumentFragment>
+`;
